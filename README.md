@@ -1,3 +1,3 @@
 # GRAPE
 
-@D Graphics editor like Microsoft Paint developed with OpenGL.
+2D Graphics editor like Microsoft Paint developed with OpenGL.
